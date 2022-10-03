@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonic_Admin", "TestProject1\Sonic_Admin.csproj", "{3EDC24B4-87A5-4AE6-BE75-E9C0963FF6E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDC24B4-87A5-4AE6-BE75-E9C0963FF6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDC24B4-87A5-4AE6-BE75-E9C0963FF6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDC24B4-87A5-4AE6-BE75-E9C0963FF6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDC24B4-87A5-4AE6-BE75-E9C0963FF6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1002769-1D21-4C19-8F66-C369F61211C7}
+	EndGlobalSection
+EndGlobal
